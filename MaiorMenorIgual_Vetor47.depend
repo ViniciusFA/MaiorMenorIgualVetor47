@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505776324 source:c:\users\vini\desktop\linguagem c - unip\exercicios\maiormenorigual_vetor47\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
